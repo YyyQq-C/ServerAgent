@@ -6,6 +6,11 @@ import org.slf4j.LoggerFactory;
 
 import java.io.*;
 
+/**
+ * Created by YongQianCheng on 2017/9/22.
+ * <p>
+ * JavaScriptLoader
+ */
 public class JavaScriptLoader extends ClassLoader
 {
     private static final Logger LOGGER = LoggerFactory.getLogger(JavaScriptLoader.class);

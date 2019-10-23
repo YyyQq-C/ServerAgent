@@ -10,6 +10,11 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.util.ArrayList;
 
+/**
+ * Created by YongQianCheng on 2017/9/22.
+ * <p>
+ * ScriptManager
+ */
 public class ScriptManager
 {
     // 单件接口

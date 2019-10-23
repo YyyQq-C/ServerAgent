@@ -14,9 +14,9 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- *  on 2016/6/24.
- *
- * Java 脚本编译器
+ * Created by YongQianCheng on 2017/9/22.
+ * <p>
+ * JavaScriptCompiler
  */
 public class JavaScriptCompiler
 {
